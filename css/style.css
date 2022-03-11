@@ -1,0 +1,81 @@
+.color1 {
+    background-color: rgb(111, 221, 221);
+}
+.color2 {
+    background-color: rgb(197, 169, 223);
+}
+.color3 {
+    background-color: bisque;
+}
+.color4 {
+    background-color: rgb(155, 170, 212);
+}
+.color5 {
+    background-color: rgb(143, 228, 168);
+}
+td{
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            font-size: 30px;
+}
+.content{
+  width: 500px;
+  min-height: 560px;    
+  margin: 0px auto;
+  position: relative;   
+}
+body{
+    background-color: rgb(229, 225, 233);
+}
+#opcoes{
+    margin-bottom: 1em;
+    margin-top: 2em;
+    font-family:fantasy
+}
+#calorias{
+    margin-top: 4em;
+    background-color: antiquewhite;
+    border: 3px;
+}
+#adicionar1{ 
+    background-color: rgb(191, 207, 175);
+}
+#blank{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+#add{
+    font-size: 50px;
+    background-color: rgb(229, 225, 236);
+    margin-top: 8em;
+}
+#pesos{
+    margin-top: 4em;
+    background-color: antiquewhite;
+}
+
+
+#senha_login{
+    margin-left: 0.7em;
+}
+#button{
+    background-color: bisque;
+}
+#bem_vindo{
+    background-color: rgb(229, 225, 236);
+    margin-bottom: 0.8em;
+    margin-top: 0.5em;
+}
+#menu{
+    align-self: center;
+    border: 20px;
+}
+#indisp{
+    background-color: rgb(229, 225, 236);
+    text-align: center;
+    margin-top: 5em;
+}
+#img{
+    margin-top: 2em;
+}
